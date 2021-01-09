@@ -14,7 +14,7 @@ const binarySearch = (array, thingToFind, start, end) => {
     // On recherche dans la première partie.
     return binarySearch(array, thingToFind, start, mid - 1);
   } else {
-  // On recherche dans la seconde partie.
+    // On recherche dans la seconde partie.
     return binarySearch(array, thingToFind, mid + 1, end);
   }
 }
