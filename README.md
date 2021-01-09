@@ -1,4 +1,4 @@
-# chercheRecursive.js
+# rechercheRecursive.js
 Lorsqu'un ensemble de donnée est trié selon la méthode de recherche employée (dans un dico, la recherche est alphabétique car les mots sont tiés alphabétiquement),
 ce programme permet de chercher un élément donné dans cet ensemble.
 
